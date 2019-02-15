@@ -34,7 +34,7 @@ const Page = ({ data: { page } }) => (
     meta={page.frontmatter.meta || false}
     title={page.frontmatter.title || false}
   >
-    <DefaultPageTemplate {...page.frontmatter} body={page.html} />
+    <PageTemplate {...page.frontmatter} body={page.html} />
   </Layout>
 )
 export default Page

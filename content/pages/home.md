@@ -1,7 +1,7 @@
 ---
 template: Page
 slug: '2100 by RTJ'
-title: '2100, a song by Run The Jewels'e
+title: '2100, a song by Run The Jewels'
 featuredImage: 'https://ucarecdn.com/15e35630-9036-4c75-b033-35d142506494/'
 subtitle: '2100, the lyrics to the song by Run The Jewels'
 accordion:
